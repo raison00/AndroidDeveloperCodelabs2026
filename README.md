@@ -28,7 +28,7 @@ The table below lists the essential codelabs and modules available on `developer
 | **Multiplatform** | [Get Started with KMP](https://developer.android.com/codelabs/kmp-get-started) | KMP, Shared Logic, SKIE | Share code between Android and iOS seamlessly. |
 | **AI & ML** | [Generative AI with Gemini](https://developer.android.com/codelabs/gemini-android) | Gemini Pro API, AI SDK | Integrated on-device and cloud-based AI. |
 | **Data & Sync** | [Room with Coroutines & Flow](https://developer.android.com/codelabs/android-room-with-a-view-kotlin) | Room, Flow, Repository | Asynchronous local persistence; no UI blocking. |
-| **Performance** | [Optimizing for Android XR](https://developer.android.com/codelabs/android-xr-fundamentals) | Compose XR, Spatial Panels | Developing for the 2026 AR/VR hardware ecosystem. |
+| **Performance** | [Optimizing for Android XR]([https://developer.android.com/codelabs/android-xr-fundamentals](https://developer.android.com/develop/xr/unity/performance)) | Compose XR, Spatial Panels | Developing for the 2026 AR/VR hardware ecosystem. Unity App for Android|
 | **Performance** | [Compose Performance](https://developer.android.com/codelabs/jetpack-compose-performance) | Baseline Profiles | Ensuring smooth 120Hz performance on modern chips. |
 
 ---
