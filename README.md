@@ -23,7 +23,7 @@ The table below lists the essential codelabs and modules available on `developer
 | :--- | :--- | :--- | :--- |
 | **UI & UX** | [Jetpack Compose Essentials](https://developer.android.com/codelabs/jetpack-compose-basics) | Compose, Material 3, State | Declarative UI; replaces XML layouts. |
 | **UI & UX** | [Adaptive Layouts for Large Screens](https://developer.android.com/develop/ui/views/layout/responsive-adaptive-design-with-views) | WindowSizeClass, Pane Layouts | Native support for foldables and tablets. |
-| **Architecture** | [Architecture & State in Compose](https://developer.android.com/codelabs/jetpack-compose-state) | ViewModel, StateFlow, UDF | Reactive state management without `LiveData`. |
+| **Architecture** | [Architecture & State in Compose](https://developer.android.com/develop/ui/compose/architecture) | ViewModel, StateFlow, UDF | Reactive state management without `LiveData`. |
 | **Architecture** | [Navigation in Jetpack Compose](https://developer.android.com/guide/navigation/navigation-3) | Compose Navigation, Type-safe | Replaces Fragment Transactions and NavGraph XML. |
 | **Multiplatform** | [Get Started with KMP](https://developer.android.com/codelabs/kmp-get-started) | KMP, Shared Logic, SKIE | Share code between Android and iOS seamlessly. |
 | **AI & ML** | [Generative AI with Gemini](https://developer.android.com/ai/gemini) | Gemini Pro API, AI SDK | Integrated on-device and cloud-based AI. |
